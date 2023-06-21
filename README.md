@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ASFOpenSARlab/opensarlab-notebooks/binder_SAREco_Biomass?labpath=Biomass.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alex-Lewandowski/opensarlab-notebooks/binder_SAREco_Biomass?labpath=Biomass.ipynb)
 
 # ASF Jupyter Notebooks
 
